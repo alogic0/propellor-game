@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="400pt"
+   id="svg548"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="scissors.svg"
+   sodipodi:version="0.32"
+   width="400pt"
+   version="1.1">
+  <metadata
+     id="metadata17454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Clipart by Nicu Buculei - book_01</dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hash</rdf:li>
+            <rdf:li />
+            <rdf:li>education</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org">
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Nicu Buculei</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs550" />
+  <sodipodi:namedview
+     id="base"
+     inkscape:cx="162.74855"
+     inkscape:cy="222.14332"
+     inkscape:window-height="729"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="12"
+     inkscape:zoom="0.70710678"
+     showgrid="true"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg548" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:#dadadb;fill-rule:evenodd;stroke:#000000;stroke-width:10.00000572;stroke-linejoin:round;stroke-dasharray:none"
+     id="path693"
+     d="m 163.37656,15.666107 c -0.57462,0.623632 79.90923,281.165543 79.90923,281.165543 0,0 50.35779,-15.86141 49.78317,-15.23778 -0.57462,0.62363 -57.76329,-223.864072 -129.6924,-265.927763 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:bevel;stroke-dasharray:none"
+     id="path596"
+     d="m 291.71131,281.88573 c 0,0 29.7689,123.89031 46.68856,133.73564 5.79178,9.10608 5.68665,68.15136 -11.88302,80.7474 -14.71792,11.49206 -73.58423,34.01178 -99.50687,-21.2689 -25.37032,-57.76312 28.25156,-68.41961 43.33778,-81.56716 15.0864,-13.14853 -0.437,-95.64854 -29.04003,-95.93189 25.47806,-9.09914 50.86306,-13.87541 50.40358,-15.71509 z m -23.94137,123.23368 c -66.03961,23.52902 -16.85906,118.72921 36.48946,89.7726 57.4916,-35.85553 6.18988,-109.81137 -36.48946,-89.7726 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:#dadadb;fill-rule:evenodd;stroke:#000000;stroke-width:9.99999332;stroke-linejoin:bevel;stroke-dasharray:none"
+     id="path674"
+     d="M 42.475408,96.331677 C 43.248191,95.982518 284.20668,260.66598 284.20668,260.66598 c 0,0 -30.90353,42.80736 -30.13075,42.4582 C 254.84872,302.77502 59.765098,177.84386 42.475408,96.331677 Z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25;stroke-dasharray:none"
+     sodipodi:nodetypes="ccc"
+     id="path710"
+     d="m 247.63444,260.63179 c -12.11659,9.31958 -0.80716,30.34931 14.36646,20.99277 13.51612,-10.27736 -0.37125,-30.57043 -14.36646,-20.99277 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25;stroke-dasharray:none"
+     id="path711"
+     d="m 242.62714,274.33419 c 1.39955,-0.95779 22.61447,3.01745 22.61447,3.01745" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:6.25;stroke-dasharray:none"
+     sodipodi:nodetypes="cc"
+     id="path712"
+     d="m 244.87272,265.60447 c 0.69973,-0.47887 21.91522,3.4972 21.91522,3.4972" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:#e6ffff;fill-opacity:0.75;fill-rule:evenodd;stroke-width:1.00000003pt"
+     sodipodi:nodetypes="cccc"
+     id="path717"
+     d="m 170.64379,26.656903 c 0.69981,-0.47892 54.97095,188.423757 54.97095,188.423757 0,0 12.6972,6.81726 14.3169,4.68126 1.62052,-2.13658 -58.42167,-189.239079 -69.28785,-193.105017 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill-opacity:0.31851896;fill-rule:evenodd;stroke-width:1.00000003pt"
+     sodipodi:nodetypes="ccccc"
+     id="path718"
+     d="m 243.95369,272.75855 0.11952,-6.07753 22.17171,3.63915 -0.94505,5.61492 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="font-size:12px;fill:#ff2a2a;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linejoin:bevel;stroke-dasharray:none"
+     id="path590"
+     d="m 379.28689,317.98519 c 43.11681,-55.27945 118.00228,21.36254 73.7277,62.88749 -52.12687,43.28635 -106.17984,-28.6833 -73.7277,-62.88749 z M 254.78024,301.92727 c 0,0 108.22689,67.24567 112.24709,86.40409 6.82071,8.36315 62.89893,26.84556 80.38438,14.13266 15.53992,-10.35342 55.44122,-59.14152 11.1274,-101.14437 -46.84375,-42.25984 -73.83414,5.28377 -91.06142,15.4658 -17.22834,10.1819 -90.65107,-30.51618 -81.91842,-57.75509 -16.65498,21.31993 -29.17748,43.91199 -30.77903,42.89691 z" />
+</svg>
