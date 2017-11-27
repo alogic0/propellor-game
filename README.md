@@ -15,22 +15,22 @@ stack build
 stack exec propellor-config --test-ui
 ```
 
-To deal with `cabal`, we have to download [`three-penny-gui`](http://github.com/joeyh/threepenny-gui/archive/59242cf93bdb8eaa805f5c2b0241e9a1cba9a70f.zip), remove upper boundary for `template-haskell` there and build it in a sandbox.
+To deal with `cabal`, we have to download [modified by Joe version](https://github.com/alogic0/threepenny-gui-joeyh) of `three-penny-gui`, where I additionally removed the upper boundaries for dependencies and install it.
 
 ```
-cabal sandbox init --sandbox=$HOME/src/sandbox-three
-cabal update
+cd threepenny-gui-joeyh
+cabal install --only-dep
 cabal install
 ```
 
-Then, `cd propellor-game` and use that sandbox running 
+Then `cd` to the `propellor-game`, build it and run.
 
 ```
-cabal sandbox init --sandbox=$HOME/src/sandbox-three
 cabal install --only-dep
 cabal build
 ./dist/build/propellor-game/propellor-game
 ```
-The game waits you on adress http://127.0.0.1:8023
+
+The game waits you on the adress http://127.0.0.1:8023
 
 
